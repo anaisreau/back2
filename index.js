@@ -14,4 +14,4 @@ const Users = require('./routes/user')
 app.use('/users', Users)
 
 
-app.listen(3001, console.log('Server running'))
+app.listen(3002, console.log('Server running'))
